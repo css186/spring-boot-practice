@@ -1,0 +1,22 @@
+{
+  "id": 123,
+  "name": "John Wick",
+  "score": 95.5,
+  "graduated": true,
+  "age": null,
+  "courseList": ["Math", "English"],
+  "pet": {
+    "name": "blacky",
+    "age": 5
+  },
+  "petList": [
+    {
+      "name": "white",
+      "age": 3
+    }, {
+      "name": "brown",
+      "age": 4
+    }
+  ]
+}
+
